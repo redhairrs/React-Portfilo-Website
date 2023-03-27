@@ -1,0 +1,19 @@
+.logo-container {
+    z-index: 0;
+    width: 650px;
+    height: 650px;
+    position: absolute;
+    top: auto;
+    right: 1%;
+    bottom: auto;
+    left: auto;
+    margin: auto;
+
+    .solid-logo {
+        position: absolute;
+        padding-top: 20%;
+        padding-bottom: 50%;
+        margin: auto;
+        width: 100%;
+    }
+}
